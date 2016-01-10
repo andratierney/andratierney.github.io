@@ -1,0 +1,32 @@
+<html>
+ <head>
+   <title> Penguins! </title>
+   </head>
+   <body>
+     <header>
+        <h1>Save the Penguins</h1>
+        </header>
+        <nav>
+        <ul>
+        <li>
+        Home
+        </li>
+        <li> Penguin pic gallery
+        </li>
+        <li> How you can help </li>
+        </nav>
+        <section>
+        </section>
+        <article>
+        <p> Insulate the house
+        </p>
+
+        </article>
+        </section>
+        <aside>
+        </aside>
+        <footer>
+        </footer>
+
+   </body>
+   </html>
